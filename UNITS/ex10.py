@@ -1,8 +1,6 @@
 ''' 10.Write a program to demonstrate recursion using 
 factorial or Fibonacci series. '''
 
-# Program to demonstrate recursion using factorial
-
 def factorial(n):
     if n == 0 or n == 1:
         return 1
